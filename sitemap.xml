@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.graficainteractiva.com/index.html</loc>
-    <lastmod>2019-08-02</lastmod>
+    <lastmod>2019-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -66,10 +66,10 @@
       <image:loc>http://www.graficainteractiva.com/images/06.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.graficainteractiva.com/images/06-2.svg</image:loc>
+      <image:loc>http://www.graficainteractiva.com/images/06-1.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.graficainteractiva.com/images/06-1.svg</image:loc>
+      <image:loc>http://www.graficainteractiva.com/images/06-2.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.graficainteractiva.com/images/06-3.svg</image:loc>
@@ -87,11 +87,17 @@
       <image:loc>http://www.graficainteractiva.com/images/link-afiche.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.graficainteractiva.com/images/creditos-final.svg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.graficainteractiva.com/images/portada-mobile.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.graficainteractiva.com/images/creditos-final.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.graficainteractiva.com/assets/ciencia-aprendizaje-continuo.pdf</loc>
+    <lastmod>2019-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.graficainteractiva.com/assets/ciencia-aprendizaje-afiche.pdf</loc>
@@ -100,8 +106,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.graficainteractiva.com/assets/ciencia-aprendizaje-continuo.pdf</loc>
-    <lastmod>2019-08-02</lastmod>
+    <loc>http://www.graficainteractiva.com/assets/la-ciencia-del-aprendizaje-con-p.pdf</loc>
+    <lastmod>2019-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

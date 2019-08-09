@@ -1,12 +1,13 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.graficainteractiva.com" resolutions="1x" timestamp="1564786923113">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.graficainteractiva.com" resolutions="1x" timestamp="1565206003477">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3985286638" ref="index"/>
-    <file name="nomq_index.css" crc="3874892315" ref="index"/>
+    <file name="index.css" crc="249053212" ref="index"/>
+    <file name="nomq_index.css" crc="98472981" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="ciencia-aprendizaje-afiche.pdf" crc="364167046" seo="true" mt="1564756943000"/>
     <file name="ciencia-aprendizaje-continuo.pdf" crc="529497748" seo="true" mt="1564781448000"/>
+    <file name="la-ciencia-del-aprendizaje-con-p.pdf" crc="3937275611" seo="true" mt="1565204502000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -18,10 +19,10 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="portada-desktop_1.svg" crc="4235733860" seo="true" ref="index">
+    <file name="portada-desktop_1.svg" crc="4151851793" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="portada-desktop_1_poster_.png" crc="3806051116" ref="index"/>
+    <file name="portada-desktop_1_poster_.png" crc="389210052" ref="index"/>
     <file name="recurso-1.svg" crc="3996626786" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -102,11 +103,11 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="05-2_poster_.png" crc="477600833" ref="index"/>
-    <file name="05-3.svg" crc="4087101205" seo="true" ref="index">
+    <file name="05-3.svg" crc="4196966015" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="05-3_poster_.png" crc="206435846" ref="index"/>
+    <file name="05-3_poster_.png" crc="3863114875" ref="index"/>
     <file name="05-4.svg" crc="146545965" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -117,16 +118,16 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="06_poster_.png" crc="4278907927" ref="index"/>
-    <file name="06-2.svg" crc="118392692" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="06-2_poster_.png" crc="277278359" ref="index"/>
     <file name="06-1.svg" crc="66537658" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="06-1_poster_.png" crc="3968513334" ref="index"/>
+    <file name="06-2.svg" crc="118392692" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="06-2_poster_.png" crc="277278359" ref="index"/>
     <file name="06-3.svg" crc="78652868" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -142,26 +143,28 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="06-5_poster_.png" crc="4195145059" ref="index"/>
-    <file name="link-pdf.svg" crc="4211037633" seo="true" ref="index">
+    <file name="link-pdf.svg" crc="3991503237" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="link-pdf_poster_.png" crc="500364504" ref="index"/>
-    <file name="link-afiche.svg" crc="3839713622" seo="true" ref="index">
+    <file name="link-pdf_poster_.png" crc="187989684" ref="index"/>
+    <file name="link-afiche.svg" crc="181327700" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="link-afiche_poster_.png" crc="143337709" ref="index"/>
-    <file name="creditos-final.svg" crc="181205576" seo="true" ref="index">
+    <file name="link-afiche_poster_.png" crc="3788734533" ref="index"/>
+    <file name="portada-mobile.svg" crc="68057015" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portada-mobile_poster_.png" crc="211422688" ref="index"/>
+    <file name="creditos-final.svg" crc="3784019669" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="creditos-final_poster_.png" crc="4040327088" ref="index"/>
-    <file name="portada-mobile.svg" crc="155741490" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="portada-mobile_poster_.png" crc="452800335" ref="index"/>
+    <file name="creditos-final_poster_.png" crc="4193052836" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="456233251" seo="true" mt="1564786894151" redirect="true"/>
+  <file name="index.html" crc="4043702858" seo="true" mt="1565205977698" redirect="true"/>
 </manifest>
